@@ -1,5 +1,13 @@
-## Hi there 👋
+Hi, I'm Voxcoding. I enjoy programming as a hobby and currently working on developing my skills in the area.
 
+I'm currently learning JavaScript for front-end development.
+
+### Things I'm good at
+- Java(learned in school).
+-  HTML & CSS.
+### Things I'm ok at
+- Python(learned a while ago).
+- JavaScript.
 <!--
 **Voxcoding/Voxcoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
